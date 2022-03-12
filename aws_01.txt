@@ -1,59 +1,55 @@
 
 
 
-„ª„ª„ª„ª„ª„ª„ª„ª„ª
-
-¡ ƒRƒ}ƒ“ƒhƒ‰ƒCƒ“Eƒ^[ƒ~ƒiƒ‹‚ðŠw‚ÑCUI‚Ì‘€ì‚ðg‚É‚Â‚¯‚æ‚¤i Linux j
+/* â–  ã‚³ãƒžãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ãƒ»ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã‚’å­¦ã³CUIã®æ“ä½œã‚’èº«ã«ã¤ã‘ã‚ˆã†ï¼ˆ Linux ï¼‰ */
 https://www.sejuku.net/plus/programs/2/chapters
 
 
-¡ ‰SŽÒ•KŒ©I‚æ‚­Žg‚¤LinuxƒRƒ}ƒ“ƒhˆê——•\
+* â–  åˆå¿ƒè€…å¿…è¦‹ï¼ã‚ˆãä½¿ã†Linuxã‚³ãƒžãƒ³ãƒ‰ä¸€è¦§è¡¨ */
 https://www.sejuku.net/blog/5465
 
-¡ Linux ‚Æ‚Í‰½‚©H
+* â–  Linux ã¨ã¯ä½•ã‹ï¼Ÿ */
 https://www.sejuku.net/blog/4948
 
-„ª„ª„ª„ª„ª„ª„ª„ª„ª
 
-„ª„ª„ª„ª„ª„ª„ª„ª„ª
 
-@mkdir@Ë@V‹Kì¬
-@rmdir@Ë@íœ
+* mkdirã€€â‡’ã€€æ–°è¦ä½œæˆ */
+* rmdirã€€â‡’ã€€å‰Šé™¤ */
 
-@----------
-@pwd ‚Æ“ü—Í@Ë@[ Enter ]
 
-@y /home/ec2-user/environment z
-@@@ª‚Æ‚¢‚¤•¶Žš‚ªbash‚É•\Ž¦‚³‚ê‚éB
-@----------
 
-@mkdir hoge ‚Æ“ü—Í@Ë@[ Enter ]
-@i hoge‚Æ‚¢‚¤ƒfƒBƒŒƒNƒgƒŠ‚ªì¬‚³‚ê‚é™ j
+* pwd ã¨å…¥åŠ›ã€€â‡’ã€€[ Enter ] */
 
-@rmdir hoge ‚Æ“ü—Í@Ë@[ Enter ]
-@i hoge‚Æ‚¢‚¤ƒfƒBƒŒƒNƒgƒŠ‚ªíœ‚³‚ê‚é™ j
+* ã€ /home/ec2-user/environment ã€‘ */
+* â†‘ã¨ã„ã†æ–‡å­—ãŒbashã«è¡¨ç¤ºã•ã‚Œã‚‹ã€‚ */
 
-„ª„ª„ª„ª„ª„ª„ª„ª„ª
 
-@¦¦¦ ’ˆÓ ¦¦¦
 
-ƒ‹[ƒgƒfƒBƒŒƒNƒgƒŠ‚ÍŒë‚Á‚Äíœ‚·‚é‚Æ
-‚o‚b‚ª‹N“®‚Å‚«‚È‚­‚È‚é‰Â”\«‚ª‚ ‚è‚Ü‚·B
+* mkdir hoge ã¨å…¥åŠ›ã€€â‡’ã€€[ Enter ] */
+* ï¼ˆ hogeã¨ã„ã†ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªãŒä½œæˆã•ã‚Œã‚‹â˜† ï¼‰ */
 
-‚»‚Ì‚½‚ßŠÔˆá‚Á‚Ä‚àƒ‹[ƒgƒfƒBƒŒƒNƒgƒŠˆÚ“®Œã‚ÉA
-ƒfƒBƒŒƒNƒgƒŠ‚ðíœ‚·‚éƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB
+* rmdir hoge ã¨å…¥åŠ›ã€€â‡’ã€€[ Enter ] */
+* ï¼ˆ hogeã¨ã„ã†ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªãŒå‰Šé™¤ã•ã‚Œã‚‹â˜† ï¼‰ */
 
-„ª„ª„ª„ª„ª„ª„ª„ª„ª
 
-ƒfƒBƒŒƒNƒgƒŠ‚ÌƒcƒŠ[\‘¢
+
+* â€»â€»â€» æ³¨æ„ â€»â€»â€» */
+
+* ãƒ«ãƒ¼ãƒˆãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¯èª¤ã£ã¦å‰Šé™¤ã™ã‚‹ã¨ */
+* ï¼°ï¼£ãŒèµ·å‹•ã§ããªããªã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚ */
+
+* ãã®ãŸã‚é–“é•ã£ã¦ã‚‚ãƒ«ãƒ¼ãƒˆãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªç§»å‹•å¾Œã«ã€ */
+* ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’å‰Šé™¤ã™ã‚‹ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ã¯ã„ã‘ã¾ã›ã‚“ã€‚ */
+
+
+
+* ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®ãƒ„ãƒªãƒ¼æ§‹é€  */
 https://www.sejuku.net/plus/programs/2/chapters/7
 
-„ª„ª„ª„ª„ª„ª„ª„ª„ª
 
-¡ 3Í ƒtƒ@ƒCƒ‹‚ð‘€ì‚·‚éŠî–{“I‚ÈƒRƒ}ƒ“ƒh
+
+* â–  3ç«  ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ“ä½œã™ã‚‹åŸºæœ¬çš„ãªã‚³ãƒžãƒ³ãƒ‰ */
 https://www.sejuku.net/plus/programs/2/chapters/8
-
-„ª„ª„ª„ª„ª„ª„ª„ª„ª
 
 
 
